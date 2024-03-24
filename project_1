@@ -1,48 +1,43 @@
-1.Qu'est ce que l'internet
-L'internet est un reseau mondial qui connecte des millions d'ordinateurs de d'appareils favorissant ansi l'échange d'information, la communication et l'acces à des ressources diverses et variées comme les sites web, le cloud computing aussi.
-1.1 Google Chrome
-2.Google Chrome = 65%
-Safari = 18%
-Edge= 3% et Firfox=3%
-2.Que pouvez-vous faire en ligne?
-1.Qui-Gon
-Couleur violette
-La réalité de l'apparence des maitre Jedi dans Start Wars est les samourais de l'ére Meiji
-Sifo-Dyas a initié la création de l'armée des clones
-3. Connexion à internet
-1.Liste de FAI au Sénégal: Orange, Free et Expresso
-Orange est le meilleur fournisseur 
-4. Cloud
-5.Utilisation d'un navigateur
-8. Utiliser les moteurs de recherches
-alien movies
-alien photo
-alien imdb
-....
-2.
-Les différences sont:
-Design graphique
-Suggestion de recherche
-Politique e confidentialité
-Politique de recherche
-3.
-9.Comprendre les urls
-1. protocole:http:// or https://
-nom de domaine: www.sayna.com
-chemin du fichier: /repertoire/nomDuFicher.extension
-Parametres:?category=mathématique&application=cryptographie
-15.
-1. Chrome
-Safari Edge
-FireFox Opera
-2. Non dépend du navigateur
-3. Sayna => https donc sécurisé
-Institut Agile => http donc not secure at all
-Observatoire Climat => https donc sécurisé
-17. Sécurité et confidentialités
-Sayna => Cadenas
-Institut Agile => cadenas barré
-Observatoire Climat => Cadenas
-18. Comment vider le cache
-
- 
+1. Intoduction à la sécurité sur Internet
+Voici trois articles qui parlent de sécurité sur internet:
+Article 1: f-secure.com - Comment repérer et éviter les arnaques PayPal
+Comment repérer et éviter les arnaques PayPal
+lien:https://www.f-secure.com/fr/articles/paypal-scams
+Article 2: https://www.kaspersky.fr  Un guide complet en matière de formation à la cybersécurité
+lien:https://www.kaspersky.fr/resource-center/preemptive-safety/cybersecurity-training
+Article 3:https://www.cnil.fr/  Se protéger sur Internet avec les cyber réflexes !
+lien: https://www.cnil.fr/fr/se-proteger-sur-internet-avec-les-cyber-reflexes
+2.Créer des mots de passe forts
+1.Ouverture de compte sur lastpass, configuration et choix de mot de passe forte, ajout de l'extension dans mon navigateur préféré et activation de l'extension.
+3.- Fonctionnalité de sécurité de votre navigateur
+1. Les sites qui semblent malveillants sont:
+  www.morvel.com
+  www.fessebook.com
+  www.instagam.com
+2. Vérification si Chrome et Firefox sont à jour
+last version of Chrome rigth now: Version 123.0.6312.58 (Build officiel) (64 bits)
+4 - Éviter le spam et le phishing
+ok
+5 - Comment éviter les logiciels malveillants
+1. www.sayna.com => https  - No unsafe content found
+   www.instagam.com => http - No available data
+   www.digital-africa.co https - No unsafe content found
+ 6. Achats en ligne sécurisés
+1. Okay!
+7 - Comprendre le suivi du navigateur
+Okay!
+8 - Principes de base de la confidentialité des
+médias sociaux
+Okay!
+ 9. Que faire si votre ordinateur est infecté par un
+virus
+1.Solutions pour vérifier la sécurité en fonction de l'appareil utilis:
+- D'abors essayer de détecter le logiciel malveillants ou virus  par l'utilisation de logiciel antivirus et le supprimer, 
+mettre à jour du systéme d'exploitation et des logiciels ou plus drastique réinstaller l'ordinateur tout en savant que cela
+comporte le risaue de perte de toutes les données.
+2. Proposer une exercice pour installer et utiliser un antivirus + anitmalware en fonction de l'appareil utilisé
+Premiere étape, je choisis un logicel d'antivirus et anti-malware comme kaspersky(payant) ou Avast(version free)
+pour un system d'exploitation windows.
+Aprés, suis la phase d'installation et de configuration.(click next for the installation process)
+Aprés l'installation du logiciel, on analyse le system(analyse rapide ou analyse compléte du system) et en fonction des résultats
+de l'analyse supprimer ou mettre en quarantaine les fichiers infectés ou suspects.
